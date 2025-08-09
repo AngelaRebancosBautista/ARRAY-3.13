@@ -1,0 +1,7 @@
+C:\Users\alyssa\source\repos\ARRAY 13\bin\Debug\ARRAY 13.exe.config
+C:\Users\alyssa\source\repos\ARRAY 13\bin\Debug\ARRAY 13.exe
+C:\Users\alyssa\source\repos\ARRAY 13\bin\Debug\ARRAY 13.pdb
+C:\Users\alyssa\source\repos\ARRAY 13\obj\Debug\ARRAY 13.csproj.AssemblyReference.cache
+C:\Users\alyssa\source\repos\ARRAY 13\obj\Debug\ARRAY 13.csproj.CoreCompileInputs.cache
+C:\Users\alyssa\source\repos\ARRAY 13\obj\Debug\ARRAY 13.exe
+C:\Users\alyssa\source\repos\ARRAY 13\obj\Debug\ARRAY 13.pdb
